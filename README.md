@@ -16,7 +16,7 @@ Este projeto é uma ferramenta em Python desenvolvida para automatizar o fluxo d
 
 ##  Tecnologias e Conceitos
 
-- **Linguagem:** Python 3.x
+- **Linguagem:** Python
 - **Bibliotecas Nativas:** - `math`: Operações matemáticas avançadas (raiz quadrada e arredondamentos).
   - `csv`: Persistência de dados em arquivos estruturados.
 - **Tratamento de Exceções:** Uso de blocos `try...except` para evitar interrupções por erros de digitação (letras em campos numéricos ou valores negativos).
